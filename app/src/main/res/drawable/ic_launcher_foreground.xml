@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mochi Bunny Head & Ears (Centered in 66dp zone: (21,21) to (87,87)) -->
+    <!-- Left Ear -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,32 C36,22 42,16 47,21 C52,26 48,34 44,38 Z" />
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M41,30 C38,23 42,19 45,23 C48,27 45,32 43,35 Z" />
+    <!-- Right Ear -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,32 C72,22 66,16 61,21 C56,26 60,34 64,38 Z" />
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M67,30 C70,23 66,19 63,23 C60,27 63,32 65,35 Z" />
+    <!-- Chubby Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,58 C32,45 42,36 54,36 C66,36 76,45 76,58 C76,71 66,79 54,79 C42,79 32,71 32,58 Z" />
+    <!-- Blushing Cheeks -->
+    <path
+        android:fillColor="#FFAEB9"
+        android:pathData="M38,62 A4,3 0 1 0 38,68 A4,3 0 1 0 38,62 Z" />
+    <path
+        android:fillColor="#FFAEB9"
+        android:pathData="M70,62 A4,3 0 1 0 70,68 A4,3 0 1 0 70,62 Z" />
+    <!-- Sparkling Eyes -->
+    <path
+        android:fillColor="#4A3B32"
+        android:pathData="M45,55 A3,3.5 0 1 0 45,62 A3,3.5 0 1 0 45,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44.5,56 A1,1 0 1 0 44.5,58 A1,1 0 1 0 44.5,56 Z" />
+    <path
+        android:fillColor="#4A3B32"
+        android:pathData="M63,55 A3,3.5 0 1 0 63,62 A3,3.5 0 1 0 63,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.5,56 A1,1 0 1 0 62.5,58 A1,1 0 1 0 62.5,56 Z" />
+    <!-- Heart Nose / Mouth -->
+    <path
+        android:fillColor="#FF8DA1"
+        android:pathData="M54,61 L52.5,59.5 C51,58 52.5,56.5 54,58 C55.5,56.5 57,58 55.5,59.5 Z" />
+    <!-- Tiny Blossom Flower on head -->
+    <path
+        android:fillColor="#FFB347"
+        android:pathData="M43,38 A2,2 0 1 0 43,42 A2,2 0 1 0 43,38 Z" />
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M43,39.5 A0.8,0.8 0 1 0 43,40.5 A0.8,0.8 0 1 0 43,39.5 Z" />
+</vector>

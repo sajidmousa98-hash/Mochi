@@ -1,0 +1,6 @@
+{
+  "name": "Mochi World: Animal Sanctuary",
+  "description": "An adorable, cozy animal sanctuary game where you rescue, adopt, care for cute animals, decorate habitats, and play mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
